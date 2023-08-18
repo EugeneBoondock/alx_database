@@ -1,12 +1,5 @@
 -- SQL script that prints out description of table
 
-CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
-
-USE hbtn_0c_0;
-
-CREATE TABLE IF NOT EXISTS first_table(
-    id INT PRIMARY KEY,
-    name VARCHAR(256)
-);
-
-DESC first_table;
+SELECT TABLE_NAME, CREATE_TABLE
+FROM INFORMATION_SCHEMA.TABLES
+WHERE TABLE_SCHEMA = 'hbtn_0c_0' AND TABLE_NAME = 'first_table';
