@@ -1,7 +1,7 @@
 **SQL for Beginners: Unleash Your Inner Data Ninja!** 🐱‍👤
 
 <div align="center">
-  <img src="https://yourimagelinkhere.com" alt="SQL Logo" width="200"/>
+  <img src="./SQL%20Logo.png" alt="SQL Logo" width="200"/>
 </div>
 
 Are you ready to embark on an epic journey into the world of databases and data manipulation? Get ready to channel your inner anime protagonist as you dive headfirst into the mystical realm of SQL! 🎮🌟

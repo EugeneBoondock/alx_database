@@ -1,7 +1,7 @@
 **SQL Introduction: Embark on a Journey of Data Discovery!** 🚀🔍
 
 <div align="center">
-  <img src="https://yourimagelinkhere.com" alt="SQL Logo" width="200"/>
+  <img src="../SQL%20Logo.png" alt="SQL Logo" width="200"/>
 </div>
 
 Greetings, fellow traveler! Are you ready to embark on an exhilarating journey through the captivating world of SQL? Join us as we step into the realm of databases, queries, and data manipulation, where every command is a spell and every table is a chapter waiting to be explored! 🌌✨
