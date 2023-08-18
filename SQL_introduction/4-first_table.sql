@@ -1,5 +1,6 @@
 -- SQL script creates table in MySQL server
 
-CREATE TABLE IF NOT EXISTS first_table;
-id INT PRIMARY KEY
-name VARCHAR(256)
+CREATE TABLE IF NOT EXISTS first_table (
+    id INT PRIMARY KEY,
+    name VARCHAR(256)
+);
