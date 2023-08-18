@@ -1,3 +1,3 @@
--- SQL script shows rows from table
+-- SQL script to retrieve rows from table
 
-SHOW ROWS FROM hbtn_0c_0.first_table;
+SELECT * FROM hbtn_0c_0.first_table;
