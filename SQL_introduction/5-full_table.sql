@@ -1,5 +1,4 @@
 -- SQL script that prints out description of table
 
-SELECT COLUMN_NAME, DATA_TYPE, COLUMN_DEFAULT, IS_NULLABLE
-FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_SCHEMA = 'hbtn_0c_0' AND TABLE_NAME = 'first_table'
+USE hbtn_0c_0;
+DESC first_table;
