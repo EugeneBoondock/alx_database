@@ -1,3 +1,3 @@
 -- SQL script that lists 
 
-SELECT * FROM cities WHERE state_id = 1 ORDER BY id ASC;
+SELECT DISTINCT * FROM cities WHERE state_id = 1 UNIQUE ORDER BY id ASC;
